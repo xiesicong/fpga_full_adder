@@ -1,2 +1,2 @@
 # fpga_full_adder
-FPGA实现全加器
+在A7 FPGA上实现全加器
